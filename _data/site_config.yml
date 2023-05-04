@@ -145,7 +145,10 @@ languages:
   - es
   - en
 languages_public: []
-logos: []
+logos:
+  - language: ES
+    src: 'https://tocatecla999.github.io/site/assets/img/SDG_logo.png'
+    alt: Logo DpH
 map_layers: []
 map_options:
   disaggregation_controls: false
